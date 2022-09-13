@@ -1,5 +1,4 @@
 # NetUs 
-## Website Link: http://netus.tk:8080/NetUs/home ## 
 **NetUs is a website created during the Ignition Hacks: Sigma Division that allows users to connect with each other and make meaningful connections. Users can share their handles from various social media platforms (Instagram, TikTok, Snapchat, Discord)**
 
 **Technologies used: HTML, CSS, JavaScript, MySQL, Java Servlets**
